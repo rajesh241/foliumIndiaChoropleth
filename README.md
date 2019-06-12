@@ -35,7 +35,8 @@ Just run the python code
 python foliumIndiaChoropleth.py
 ```
 This would output indiaChoropleth.html which can be opened in browser and it would have Choropleth Map of India.  
-
+##Example Output
+![Choropleth](exampleMap.png?raw=true "India Choropleth")
 ## Acknowledgments
 
 * [geohacker](https://github.com/geohacker/india/blob/master/state/india_telengana.geojson) - The geojson file was used from here and modified. 
