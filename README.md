@@ -35,7 +35,7 @@ Just run the python code
 python foliumIndiaChoropleth.py
 ```
 This would output indiaChoropleth.html which can be opened in browser and it would have Choropleth Map of India.  
-##Example Output
+### Example Output
 ![Choropleth](exampleMap.png?raw=true "India Choropleth")
 ## Acknowledgments
 
